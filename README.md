@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sumankanta
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning +3 Computer Science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/sumankanta-padhan-169332229
 
 <!---

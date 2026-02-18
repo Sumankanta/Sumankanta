@@ -4,23 +4,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumankanta&label=Profile views&color=0e75b6&style=flat" alt="Sumankanta" /> </p>
 
-- 🔭 I'm currently working on **[Hospital Management System](https://github.com/Sumankanta/Hospital-Management-System)**, [Attendance Management System](https://github.com/Sumankanta/Attendance-Management-System)**, [Personal Portfolio Management Platform (Java + Spring Boot + Angular + React)](https://github.com/Sumankanta/Portfolio-Management-System)**
+- 🔭 I'm currently working on **[Hospital Management System](https://github.com/Sumankanta/Hospital-Management-System), [Attendance Management System](https://github.com/Sumankanta/Attendance-Management-System), [Personal Portfolio Management Platform (Java + Spring Boot + Angular + React)](https://github.com/Sumankanta/Portfolio-Management-System)**
 
-- 🌱 I'm currently learning **Advanced Angular concepts
-Spring Security & authentication
+- 🌱 I'm currently learning **Advanced Angular concepts,
+Spring Security & authentication,
 React for modern UI development**
 
-- 👯 I'm looking to collaborate on **Full-stack Java projects
-Open-source web applications
+- 👯 I'm looking to collaborate on **Full-stack Java projects,
+Open-source web applications,
 Real-world problem-solving apps**
 
-- 🤝 I'm looking for help with **System design & scalability
-Microservices architecture
+- 🤝 I'm looking for help with **System design & scalability,
+Microservices architecture,
 Best coding practices**
 
 - 💬 Ask me about **Java & Spring Boot
-Angular development
-REST APIs & databases
+Angular development,
+REST APIs & databases,
 Full-stack project building**
 
 - 📫 How to reach me **sumankpadhan@gmail.com**

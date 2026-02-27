@@ -6,7 +6,7 @@
 
 <!--- 🔭 I'm currently working on **[Hospital Management System](https://github.com/Sumankanta/Hospital-Management-System), [Attendance Management System](https://github.com/Sumankanta/Attendance-Management-System), [Personal Portfolio Management Platform (Java + Spring Boot + Angular + React)](https://github.com/Sumankanta/Portfolio-Management-System)** -->
 
-- - 🔭 I'm currently working on **[Personal Portfolio Management Platform (Java + Spring Boot + Angular + React)](https://github.com/Sumankanta/Portfolio-Management-System)**
+- 🔭 I'm currently working on **[Personal Portfolio Management Platform (Java + Spring Boot + Angular + React)](https://github.com/Sumankanta/Portfolio-Management-System)**
 
 - 🌱 I'm currently learning **Advanced Angular concepts,
 Spring Security & authentication,
